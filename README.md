@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi there! I'm **Liubomyr Yavorskyi**
 
-<!--
-**0-LY/0-LY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Scientist** and **Engineer** passionate about **data engineering**, **machine learning**, and **software development**. My goal is to create efficient systems and solve complex problems using data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 **Core Skills & Expertise**
+
+#### 🔧 **Programming & Technologies**:
+`Python`, `SQL`, `JavaScript`, `Golang`, `C/C++`, `MATLAB`, `Django`, `Git`, `Docker`, `AWS`, `Apache Spark`, `Swagger`
+
+#### 📊 **Data Engineering**:
+ETL processes, big data architecture, data modeling, data pipeline design
+
+#### 📈 **Data Science & Analytics**:
+Statistical analysis, predictive modeling, machine learning, **NumPy**, **Pandas**, **Matplotlib**, **Jupyter Notebook**
+
+#### 💻 **Software Development**:
+Algorithm design, software architecture, system optimization, performance tuning
+
+#### 🤝 **Additional Skills**:
+Project Management, Problem Solving, Communication, Collaboration, Agile methodologies
+
+---
+
+### 🚀 **Discover My Projects**
+Feel free to explore my work and projects [here on GitHub](#).
+
+---
+
+### 🔗 **Connect with me on LinkedIn**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/liubomyr-yavorskyi-79a9192a5/)
+
+---
+
+### Let's Build Something Amazing! 🌟
