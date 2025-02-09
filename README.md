@@ -5,11 +5,11 @@ A **Data Scientist** and **Engineer** focused on **data engineering**, **machine
 ---
 
 ### 💡 **Core Skills & Expertise**  
-- **Languages & Frameworks**: `Python`, `SQL`, `JavaScript`, `Golang`, `C/C++`, `MATLAB`, `Django`  
-- **Data Science & Machine Learning**: `NumPy`, `Pandas`, `Matplotlib`, `Jupyter Notebook`, `Scikit-learn`, `TensorFlow`  
-- **Data Engineering**: ETL processes, big data, data modeling  
-- **Tools & Technologies**: `Git`, `Docker`, `AWS`, `Apache Spark`, `Swagger`  
-- **Other Skills**: Project Management, Algorithm Design, Software Development, Data Analysis
+- **Languages & Frameworks**: `Python`, `SQL`, `JavaScript`, `Golang`, `C/C++`, `MATLAB`, `Django`, `Flask`, `R`
+- **Data Science & ML**: `NumPy`, `Pandas`, `Matplotlib`, `Jupyter Notebook`, `Scikit-learn`, `TensorFlow`, `PyTorch`, `Plotly`
+- **Data Engineering**: ETL processes, Big Data, Data Modeling, `Apache Spark`, `Google BigQuery`
+- **Tools & Technologies**: `Git`, `Docker`, `AWS`, `Swagger`, `Postman`
+- **Other Skills**: Project Management, Algorithm Design, Software Development, Data Analysis, Agile/Scrum, MLOps
 
 ---
 
